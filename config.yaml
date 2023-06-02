@@ -1,0 +1,7 @@
+TIMEZONE: 'Europe/Warsaw'
+
+INTERVAL: '15m'
+
+WINDOW_LEN: 60
+
+TRAIN_TEST_SPLIT: 0.75
